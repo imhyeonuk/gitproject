@@ -1,3 +1,3 @@
-[줌으로](readme.md)
+[줌으로](../readme.md)
 
 # markdown-data1.md
